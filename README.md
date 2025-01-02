@@ -9,6 +9,6 @@ User-Friendly UI: Home screen displays the list of expenses with a floating acti
 Form Functionality: Intuitive forms for adding or editing expense details.
 
 # Tech Stack
-Flutter: For building the user interface.
+Flutter: For building the user interface. 
 Provider: For seamless state management.
 Hive / SharedPreferences: For local storage solutions.
